@@ -1,0 +1,6 @@
+Config = {
+    namescript='hackv100hub'
+    logoscript ='131999716101083'
+    tacgia='hello'
+}
+loadstring(gamei:HttpGet(" https://raw.githubusercontent.com/3345-catsus/Kncrypt/refs/heads/main/sources/BloxFruit.lua"))()
